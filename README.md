@@ -1,13 +1,3 @@
-# Contribution
-Group members :
-Praveer (22051709)
-Rupesh Kumar (22051720)
-Harsh Sinha (22051680)
-Abhijeet Ranjan (22052178)
-Gaurav Khunjwar (22052207)
-Abhinav (22051564)
-
-
 # Currency Converter
 
 ## Description
